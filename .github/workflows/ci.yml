@@ -1,4 +1,6 @@
 name: Install and test AVA
+permissions:
+  contents: read
 
 on:
   push:
